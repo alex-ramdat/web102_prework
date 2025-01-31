@@ -24,12 +24,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://drive.google.com/file/d/1ExlMms_gICQFAVw4NQJ3iFcVUph2l5QJ/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://github.com/user-attachments/assets/7cfae79c-5496-408e-a442-b75d2bef94be
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with GIPHY
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/AMfiO0q480WlSihe55" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/AMfiO0q480WlSihe55">via GIPHY</a></p>
+<!--GIF created with GIPHY
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -37,8 +35,8 @@ GIF created with GIPHY
 
 ## Notes
 
-Some challenges I encountered while constructing the website was getting items to display on the page with the JavaScript, but after iterating and testing new methods, 
-I was able to get it to work. Another issue I encountered was experimenting with Flexbox in CSS because at first it was not displaying in the format 
+A challenge I encountered while constructing the website was getting items to display on the page with JavaScript, but after iterating and testing new methods, 
+I was able to get it to work. Another issue I encountered was experimenting with Flexbox in CSS because at first, it was not displaying in the format 
 I wanted it to, so tweaking the different Flexbox features and values helped me obtain my desired results.
 
 
